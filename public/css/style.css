@@ -1,0 +1,22 @@
+body{
+  background-image: url('./pexels-photo-540518.jpeg');
+  color: #ffffff;
+  font-family: sans-serif;
+}
+
+h1{
+  text-align: center;
+}
+
+#select-region{
+  margin: 50px;
+  margin-left: 515px;
+  text-align: center;
+  align-items: center;
+}
+
+#cols{
+    -webkit-column-count: 5; /* Chrome, Safari, Opera */
+    -moz-column-count: 5; /* Firefox */
+    column-count: 5;
+}
